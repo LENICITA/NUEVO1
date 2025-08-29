@@ -1,5 +1,6 @@
 caperucita roja
 
+<<<<<<< HEAD
 Hola niñita, ¿hacia dónde te diriges en este maravilloso día? —preguntó el lobo.
 
 Caperucita Roja recordó que su mamá le había advertido no hablar con extraños, pero el lobo lucía muy elegante, además era muy amigable y educado.
@@ -35,3 +36,23 @@ Caperucita Roja pensó que su abuelita se encontraba muy enferma porque se veía
 —¡Abuelita, abuelita, que dientes más grandes tienes!
 
 —¡Son para comerte mejor!
+=======
+
+
+
+
+DESENLACE
+
+Con estas palabras, el malvado lobo tiró su manta y saltó de la cama. Asustada, Caperucita salió corriendo hacia la puerta. Justo en ese momento, un leñador se acercó a la puerta, la cual se encontraba entreabierta. La abuelita estaba escondida detrás de él.
+
+Al ver al leñador, el lobo saltó por la ventana y huyó espantado para nunca ser visto.
+
+La abuelita y Caperucita Roja agradecieron al leñador por salvarlas del malvado lobo y todos comieron galleticas con leche. Ese día Caperucita Roja aprendió una importante lección:
+
+“Nunca debes hablar con extraños”.
+
+
+
+
+
+>>>>>>> 2ab458b1e5e3232e2adb4b5fd0b5d554d1970d96
